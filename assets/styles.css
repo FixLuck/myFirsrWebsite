@@ -661,6 +661,10 @@
     padding-left: 16px;
 }
 
+.network-content {
+    padding-bottom: 8px;
+}
+
 .network-content i {
     font-size: 32px;
     cursor: pointer;
